@@ -1,4 +1,4 @@
-module github.com/kraxarn/hitster-cache
+module github.com/kraxarn/guess-year-cache
 
 go 1.22
 
